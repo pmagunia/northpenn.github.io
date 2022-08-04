@@ -1,0 +1,24 @@
+s3_bucket: www.northpenn.net
+cloudfront_distribution_id: E2EB7V1BI92AMU
+
+site: /Users/Parag/Public/np
+
+index_document: index.html
+
+gzip:
+  - .html
+  - .css
+  - .js
+  - .png
+  - .jpeg
+  - .jpg
+  - .gif
+
+cloudfront_distribution_config:
+  default_cache_behavior:
+    min_ttl: <%= 60 * 60 * 24 * 7 %>
+
+cache_control: public, no-transform, max-age=604800, s-maxage=604800
+
+exclude_from_upload:
+  - .git

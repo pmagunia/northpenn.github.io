@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KRH6HTN');</script>
+    <!-- End Google Tag Manager -->
+    <meta name="author" content="North Penn Networks Limited">
+    <meta name="geo.region" content="US-PA" />
+    <meta name="geo.placename" content="North Wales" />
+    <meta name="geo.position" content="40.249040;-75.241370" />
+    <meta name="icbm" content="40.249040,-75.241370" />
+    <meta name="MobileOptimized" content="width" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans:700,regular&amp;subset=latin-ext" media="all" />
+    <link rel="shortcut icon" href="/sites/www.northpenn.net/files/favicon.ico" type="image/vnd.microsoft.icon" />
+    <title>Royersford Website Design by North Penn Networks</title>
+    <meta name="description" content="North Penn Networks Limited designs websites for Royersford, Pennsylvania.">
+    <link rel="stylesheet" media="all" href="/style.css" />
+    <link rel="stylesheet" media="all" href="//code.cdn.mozilla.net/fonts/fira.css" />
+    <link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Libre+Franklin:300,400,400i,500,500i,600,700&amp;amp;subset=latin-ext" />
+    <link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Source+Code+Pro&amp;subset=latin,latin-ext" />
+    <link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&amp;subset=latin,latin-ext" />
+    <!--[if lte IE 8]><script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script><![endif]-->
+  </head>
+  <body class="fontyourface layout-one-sidebar layout-sidebar-second wide hff-33 pff-43 sff-33 slff-33 fixed-header-enabled slideout-side-right transparent-header-active inverted-header-enabled path-contact">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRH6HTN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <div class="page-container">
+        <div class="header-container">
+          <div class="clearfix header-top region--dark-typography region--white-background">
+            <div class="container">
+              <div class="clearfix header-top__container mt-no-opacity" data-animate-effect="fadeIn">
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="clearfix header-top__section header-top-first">
+                      <div class="region region-header-top-first">
+                        <div id="block-corporateplus-contactinfoheadertop" class="clearfix block block-block-content block-block-content47385a7c-dff7-4f4a-8225-37b53a37da3d">
+                          <div class="content">
+                            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
+                              <div class="company-info">
+                                <p><small>Would you like a free estimate? <a href="/contact">Contact</a> North Penn Networks.</small></p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <header class="clearfix header region--dark-typography region--white-background fixed-width two-columns">
+            <div class="container">
+              <div class="clearfix header__container">
+                <div class="row">
+                  <div class="col-md-4">
+                    <div class="clearfix header__section header-first">
+                      <div class="region region-header-first">
+                        <div id="block-corporateplus-branding" class="clearfix site-branding block block-system block-system-branding-block">
+                          <div class="logo-and-site-name-wrapper clearfix">
+                            <div class="logo">
+                              <a href="/" title="Home" rel="home" class="site-branding__logo">
+                              <img src="/sites/www.northpenn.net/files/North%20Penn%20Icon%20Frontpage_0.png" alt="North Penn Networks Limited Homepage" />
+                              </a>
+                            </div>
+                            <div class="site-name site-branding__name">
+                              <a href="/" title="Home" rel="home">North Penn Networks</a>
+                            </div>
+                            <div class="site-slogan site-branding__slogan">Website Development and Maintenance</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-8">
+                    <div class="clearfix header__section header-second">
+                      <div class="region region-header">
+                        <div id="block-mainnavigation-2" class="clearfix block block-superfish block-superfishmain">
+                          <div class="content">
+                            <ul id="superfish-main" class="menu sf-menu sf-main sf-horizontal sf-style-none">
+                              <li class="sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">Home</a></li>
+                              <li class="sf-depth-1 sf-no-children"><a href="/about" class="sf-depth-1">About</a></li>
+                              <li class="sf-depth-1 sf-no-children"><a href="/serving" class="sf-depth-1">Serving</a></li>
+                              <li class="sf-depth-1 sf-no-children"><a href="/blog" class="sf-depth-1">Blog</a></li>
+                              <li class="sf-depth-1 sf-no-children"><a href="/contact" class="sf-depth-1">Contact</a></li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </header>
+        </div>
+        <div id="banner" class="clearfix banner region--dark-typography region--white-background region--no-block-paddings region--no-paddings">
+          <div class="container-fluid">
+            <div class="clearfix banner__container">
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="banner__section">
+                    <div class="region region-banner">
+                      <div id="block-googlemapbanner" class="clearfix block block-block-content block-block-content3a7d6304-c55c-48d0-a559-ee212ac34069">
+                        <div class="content">
+                          <div class="field field--name-field-mt-map-location field--type-entity-reference-revisions field--label-hidden field--entity-reference-target-type- clearfix">
+                            <div class="google-map-canvas" data-attribute-mt-locations="[[&quot;Doylestown Rd&quot;, 40.249040, -75.241370, 0]]" data-attribute-mt-map-zoom="13"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="main-content" class="clearfix main-content region--dark-typography region--white-background  region--no-separator">
+          <div class="container">
+            <div class="clearfix main-content__container">
+              <div class="row">
+                <section class="col-md-8">
+                  <div class="clearfix main-content__section mt-no-opacity"
+                    data-animate-effect="fadeIn"
+                    >
+                    <div class="region region-content">
+                      <div id="block-corporateplus-page-title" class="clearfix block block-core block-page-title-block">
+                        <div class="content">
+                          <h1 class="title page-title">Royersford Website Design by North Penn Networks</h1>
+                        </div>
+                      </div>
+                      <div id="block-corporateplus-content" class="clearfix block block-system block-system-main-block">
+                        <div class="content">
+                          <p>North Penn Networks creates websites for Royersford, Pennsylvania. The company is headquartered in Montgomery township but is not too far away from Royersford. A meeting could be arranged at Fort Washington.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </section>
+                <aside class="col-md-4 fix-sidebar-second">
+                  <section class="sidebar__section sidebar-second clearfix mt-no-opacity" data-animate-effect="fadeInRight">
+                    <div class="region region-sidebar-second">
+                      <div id="block-corporateplus-contactinfo" class="clearfix block block-block-content block-block-content5c386222-a853-46e7-b120-1d96242be928">
+                        <div class="content">
+                          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
+                            <div class="contact-info">
+                              <h3>Contact info</h3>
+                              <p class="bottom-spacing-medium">Feel free to contact us by email, telephone, or USPS mail.</p>
+                              <ul>
+                                <li><i class="fa fa-map-marker"><span class="sr-only">address</span></i> North Penn Networks <br> North Wales, PA 19454</li>
+                                <li>
+                                  <i class="fa fa-envelope-o"><span class="sr-only">email</span></i><a href="/contact">Contact Form</a> <br>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
+                </aside>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="subfooter" class="clearfix subfooter region--dark-typography region--white-background region--separator-border-top ">
+          <div class="container">
+            <div class="clearfix subfooter__container">
+              <div class="row">
+                <div class="col-md-12 text-center">
+                  <div class="clearfix subfooter__section subfooter-first">
+                    <div class="region region-sub-footer-first">
+                      <nav aria-labelledby="block-corporateplus-footer-menu" id="block-corporateplus-footer" class="clearfix block block-menu navigation menu--footer">
+                        <h2 class="visually-hidden" id="block-corporateplus-footer-menu">About</h2>
+                        <ul class="clearfix menu">
+                          <li class="menu-item">
+                            <a href="/">Home</a>
+                          </li>
+                          <li class="menu-item">
+                            <a href="/about">About</a>
+                          </li>
+                          <li class="menu-item">
+                            <a href="/serving">Serving</a>
+                          </li>
+                          <li class="menu-item">
+                            <a href="/blog">Blog</a>
+                          </li>
+                          <li class="menu-item">
+                            <a href="/contact">Contact</a>
+                          </li>
+                          <li class="menu-item">
+                            <a href="/sitemap.xml">Sitemap</a>
+                          </li>
+                        </ul>
+                      </nav>
+                      <div id="block-footerbottomcustomsitebranding" class="clearfix block block-block-content block-block-content30cd384d-66e1-462a-b606-9af85d356ef1">
+                        <div class="content">
+                          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item">
+                            <div class="text-center bottom-spacing-small clearfix">
+                              <div class="site-name site-branding__name">
+                                <a href="/" title="Home" rel="home">North Penn Networks Limited</a>
+                              </div>
+                              <div class="site-slogan site-branding__slogan">WEBSITE DEVELOPMENT AND MAINTENANCE</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="to-top"><i class="fa fa-angle-double-up"></i></div>
+      </div>
+    </div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"contact","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"corporateplus":{"slideshowCaptionOpacity":0.45,"slideshowBackgroundOpacity":0.3,"sliderRevolutionFullWidthInit":{"slideshowFullWidthEffectTime":10000,"slideshowFullWidthInitialHeight":650,"slideshowFullWidthNavigationStyle":"bullets","slideshowFullWidthBulletsPosition":"right","slideshowFullWidthTouchSwipe":"on"},"sliderRevolutionFullScreenInit":{"slideshowFullScreenEffectTime":10000,"slideshowFullScreenNavigationStyle":"bullets","slideshowFullScreenBulletsPosition":"right","slideshowFullScreenTouchSwipe":"on"},"sliderRevolutionBoxedWidthInit":{"slideshowBoxedWidthEffectTime":10000,"slideshowBoxedWidthInitialHeight":650,"slideshowBoxedWidthNavigationStyle":"bullets","slideshowBoxedWidthBulletsPosition":"right","slideshowBoxedWidthTouchSwipe":"on"},"sliderRevolutionInternalBannerInit":{"slideshowInternalBannerEffectTime":10000,"slideshowInternalBannerInitialHeight":540,"slideshowInternalBannerNavigationStyle":"bullets","slideshowInternalBannerBulletsPosition":"center","slideshowInternalBannerTouchSwipe":"off"},"owlCarouselProductsInit":{"owlProductsAutoPlay":1,"owlProductsEffectTime":5000},"owlCarouselArticlesInit":{"owlArticlesAutoPlay":1,"owlArticlesEffectTime":5000},"owlCarouselTestimonialsInit":{"owlTestimonialsAutoPlay":1,"owlTestimonialsEffectTime":5000},"owlCarouselRelatedNodesInit":{"owlRelatedNodesAutoPlay":0,"owlRelatedNodesEffectTime":5000},"owlCarouselBrandsInit":{"owlBrandsAutoPlay":1,"owlBrandsEffectTime":5000},"owlCarouselCollectionsInit":{"owlCollectionsAutoPlay":0,"owlCollectionsEffectTime":5000},"owlCarouselPromotedPostsInit":{"owlPromotedPostsAutoPlay":0,"owlPromotedPostsEffectTime":5000},"owlCarouselTeamMembersInit":{"owlTeamMembersAutoPlay":0,"owlTeamMembersEffectTime":5000},"flexsliderInPageInit":{"inPageSliderEffect":"slide"},"inPageNavigation":{"inPageNavigationOffset":74},"transparentHeader":{"transparentHeaderOpacity":0},"isotopeFiltersGridInit":{"isotopeFiltersText":"All","isotopeLayoutMode":"masonry"},"slideoutInit":{"slideoutSide":"right","slideoutTouchSwipe":false}},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"superfish":{"superfish-main":{"id":"superfish-main","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","dropShadows":false},"plugins":{"smallscreen":{"mode":"window_width","title":"Main navigation"},"supposition":true,"supersubs":{"minWidth":"17"}}}},"user":{"uid":0,"permissionsHash":"46d4122dde4606b825b7b4056f17b36c09569904b71a510a07a69219d30ace76"}}</script>
+    <script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+    <script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
+    <script src="/core/assets/vendor/jquery/jquery-extend-3.4.0.js?v=3.2.1"></script>
+    <script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
+    <script src="/core/misc/drupalSettingsLoader.js?v=8.6.15"></script>
+    <script src="/core/misc/drupal.js?v=8.6.15"></script>
+    <script src="/core/misc/drupal.init.js?v=8.6.15"></script>
+    <script src="/modules/contrib/google_analytics/js/google_analytics.js?v=8.6.15"></script>
+    <script src="/modules/custom/np/js/np.js?v=1.x"></script>
+    <script src="//use.fontawesome.com/f479fb1064.js"></script>
+    <script src="/themes/contrib/corporateplus/js/init/tooltip-init.js?v=8.6.15"></script>
+    <script src="/themes/contrib/corporateplus/js/count-to/jquery.countTo.js?v=1.2.0"></script>
+    <script src="/themes/contrib/corporateplus/js/waypoints/jquery.waypoints.min.js?v=4.0.1"></script>
+    <script src="/themes/contrib/corporateplus/js/init/count-to-init.js?v=8.6.15"></script>
+    <script src="/themes/contrib/corporateplus/js/custom/in-page-navigation-scroll.js?v=8.6.15"></script>
+    <script src="/themes/contrib/corporateplus/js/custom/in-page-navigation-scrollspy.js?v=8.6.15"></script>
+    <script src="/core/misc/debounce.js?v=8.6.15"></script>
+    <script src="/core/misc/form.js?v=8.6.15"></script>
+    <script src="/core/misc/details-aria.js?v=8.6.15"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyBXEfloxT5I-4LmdcoqO0bYzIwaJBtn8Qw"></script>
+    <script src="/themes/contrib/corporateplus/js/init/google-map-init.js?v=8.6.15"></script>
+    <script src="/libraries/superfish/superfish.js"></script>
+    <script src="/libraries/superfish/jquery.hoverIntent.minified.js"></script>
+    <script src="/libraries/superfish/sfsmallscreen.js"></script>
+    <script src="/libraries/superfish/supposition.js"></script>
+    <script src="/libraries/superfish/supersubs.js"></script>
+    <script src="/modules/contrib/superfish/js/superfish.js?v=2.0"></script>
+    <script src="/themes/contrib/corporateplus/js/custom/to-top.js?v=8.6.15"></script>
+    <script src="/themes/contrib/corporateplus/bootstrap/js/bootstrap.min.js?v=3.3.7"></script>
+    <script src="/themes/contrib/corporateplus/js/init/waypoints-animations-init.js?v=8.6.15"></script>
+    <script src="/themes/contrib/corporateplus/js/waypoints/shortcuts/sticky.min.js?v=4.0.1"></script>
+    <script src="/themes/contrib/corporateplus/js/init/waypoints-fixed-header-init.js?v=8.6.15"></script>
+  </body>
+</html>
